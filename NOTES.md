@@ -78,22 +78,4 @@ DarkJPEG file format:
 - [Plausible deniability](http://en.wikipedia.org/wiki/Plausible_deniability);
 - [A Cypherpunk's Manifesto](http://www.activism.net/cypherpunk/manifesto.html).
 
-### Thanks to
 
-- Emily Stark, Mike Hamburg, Dan Boneh, Stanford University for their BSD-licensed JavaScript AES256 implementation;
-- Chris Drost for his public domain implementation of SHA3 Keccak;
-- Yury Delendik, Brendan Dahl, notmasteryet for their Apache licensed JavaScript JPEG decoder;
-- Andreas Ritter for his amazing Apache licensed JavaScript JPEG encoder port;
-- Dan Gries for his examples of very pretty fractal linear gradients drawings;
-- Brsev for the gear icon (a part of his CC BY-NC-ND licensed Token Dark icon pack);
-- Fabrizio Panattoni for his public domain Premade Background 019.
-
-### License
-
-Copyright © 2013 Mikhail Mukovnikov &lt;m.mukovnikov@gmail.com&gt;
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
